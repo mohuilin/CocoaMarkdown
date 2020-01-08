@@ -23,5 +23,5 @@ Efficient NSAttributedString creation for easy rendering on iOS and OS X. Most e
 
   s.dependency 'cmark', '~> 0.21.0'
   s.dependency 'Ono', '~> 1.1.3'
-
+  s.dependency 'YYKit', '=1.0.9'
 end

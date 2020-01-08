@@ -1,3 +1,6 @@
+[submodule "External/YYKit"]
+        path = External/YYKit
+        url = https://github.com/ibireme/YYKit
 [submodule "External/Quick"]
 	path = External/Quick
 	url = https://github.com/Quick/Quick
